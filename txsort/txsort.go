@@ -11,8 +11,8 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/ltcsuite/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcd/wire"
+	"github.com/ellcrys/ltcd/chaincfg/chainhash"
+	"github.com/ellcrys/ltcd/wire"
 )
 
 // InPlaceSort modifies the passed transaction inputs and outputs to be sorted
